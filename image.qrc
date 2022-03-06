@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>hpc_kingston_hyperx_pulsefire_surge_rgb-1.jpg</file>
+  </qresource>
+</RCC>
